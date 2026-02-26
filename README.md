@@ -69,5 +69,3 @@ This project demonstrates strong SQL querying skills and the ability to transfor
 
 ---
 
-## 📬 Contact
-If you would like to discuss this project or collaborate, feel free to connect with me.
